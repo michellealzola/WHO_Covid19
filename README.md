@@ -1,5 +1,7 @@
+
 ## Source
 All data were extracted from the live webpage of WHO Covid-19 dashboard: https://covid19.who.int/table
+![Screenshot 2023-03-03 131329](https://user-images.githubusercontent.com/105762453/222818682-f06a9f6e-7674-4889-9315-3931a0c5ec52.png)
 
 ## New cases for 7-day period
 ![Screenshot 2023-03-03 125925](https://user-images.githubusercontent.com/105762453/222815800-678b5220-b122-4e08-9ee8-227f0ecc60be.png)
